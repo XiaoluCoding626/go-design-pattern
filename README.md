@@ -16,7 +16,7 @@
 - [x] [工厂方法模式 (Factory Method)](./creational/factory_method/docs/README.md)
 - [x] [抽象工厂模式 (Abstract Factory)](./creational/abstract_factory/docs/README.md)
 - [x] [建造者模式 (Builder)](./creational/builder/docs/README.md)
-- [ ] 原型模式 (Prototype)
+- [x] [原型模式 (Prototype)](./creational/prototype/docs/README.md)
 - [x] [单例模式 (Singleton)](./creational/singleton/docs/README.md)
 - [ ] New 模式 (New)
 - [ ] 函数选项模式 (Functional Options)
