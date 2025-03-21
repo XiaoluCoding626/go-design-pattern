@@ -12,7 +12,7 @@
 
 这些模式与对象的创建机制有关，主要解决对象创建时的灵活性和复用性问题。
 
-- [ ] 简单工厂模式（Simple Factory）
+- [ ] [简单工厂模式（Simple Factory）](./creational/simple_factory/README.md)
 - [ ] 工厂方法模式 (Factory Method)
 - [ ] 抽象工厂模式 (Abstract Factory)
 - [ ] 建造者模式 (Builder)
