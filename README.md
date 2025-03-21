@@ -12,12 +12,12 @@
 
 这些模式与对象的创建机制有关，主要解决对象创建时的灵活性和复用性问题。
 
-- [ ] [简单工厂模式（Simple Factory）](./creational/simple_factory/README.md)
-- [ ] 工厂方法模式 (Factory Method)
+- [x] [简单工厂模式（Simple Factory）](./creational/simple_factory/docs/README.md)
+- [x] [工厂方法模式 (Factory Method)](./creational/factory_method/docs/README.md)
 - [ ] 抽象工厂模式 (Abstract Factory)
 - [ ] 建造者模式 (Builder)
 - [ ] 原型模式 (Prototype)
-- [x] [单例模式 (Singleton)](./creational/singleton/README.md)
+- [x] [单例模式 (Singleton)](./creational/singleton/docs/README.md)
 - [ ] New 模式 (New)
 - [ ] 函数选项模式 (Functional Options)
 - [ ] 对象池模式 (Object Pool)
@@ -26,7 +26,7 @@
 
 这些模式关注类和对象的组合，形成更大的结构，同时保持结构的灵活和高效。
 
-- [x] [适配器模式 (Adapter)](./structural/adapter/README.md)
+- [x] [适配器模式 (Adapter)](./structural/adapter/docs/README.md)
 - [ ] 桥接模式 (Bridge)
 - [ ] 组合模式 (Composite)
 - [ ] 装饰器模式 (Decorator)
