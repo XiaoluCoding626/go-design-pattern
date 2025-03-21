@@ -18,7 +18,7 @@
 - [x] [建造者模式 (Builder)](./creational/builder/docs/README.md)
 - [x] [原型模式 (Prototype)](./creational/prototype/docs/README.md)
 - [x] [单例模式 (Singleton)](./creational/singleton/docs/README.md)
-- [ ] New 模式 (New)
+- [x] [New 模式 (New)](./creational/new/docs/README.md)
 - [ ] 函数选项模式 (Functional Options)
 - [ ] 对象池模式 (Object Pool)
 
