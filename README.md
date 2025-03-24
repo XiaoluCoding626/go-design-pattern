@@ -20,7 +20,7 @@
 - [x] [单例模式 (Singleton)](./creational/singleton/docs/README.md)
 - [x] [New 模式 (New)](./creational/new/docs/README.md)
 - [x] [函数选项模式 (Functional Options)](./creational/functional_options/docs/README.md)
-- [ ] 对象池模式 (Object Pool)
+- [x] [对象池模式 (Object Pool)](./creational/object_pool/docs/README.md)
 
 ### 结构型模式 (Structural Patterns)
 
