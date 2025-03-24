@@ -19,7 +19,7 @@
 - [x] [原型模式 (Prototype)](./creational/prototype/docs/README.md)
 - [x] [单例模式 (Singleton)](./creational/singleton/docs/README.md)
 - [x] [New 模式 (New)](./creational/new/docs/README.md)
-- [ ] 函数选项模式 (Functional Options)
+- [x] [函数选项模式 (Functional Options)](./creational/functional_options/docs/README.md)
 - [ ] 对象池模式 (Object Pool)
 
 ### 结构型模式 (Structural Patterns)
