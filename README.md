@@ -29,7 +29,7 @@
 - [x] [策略模式 (Strategy)](./behavioral/strategy/docs/README.md)
 - [x] [命令模式 (Command)](./behavioral/command/docs/README.md)
 - [x] [观察者模式 (Observer)](./behavioral/observer/docs/README.md)
-- [ ] 访问者模式 (Visitor)
+- [x] [访问者模式 (Visitor)](./behavioral/visitor/docs/README.md)
 - [ ] 迭代器模式 (Iterator)
 - [ ] 模板方法模式 (Template Method)
 - [ ] 状态模式 (State)
