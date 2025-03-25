@@ -22,6 +22,24 @@
 - [x] [函数选项模式 (Functional Options)](./creational/functional_options/docs/README.md)
 - [x] [对象池模式 (Object Pool)](./creational/object_pool/docs/README.md)
 
+### 行为型模式 (Behavioral Patterns)
+
+这些模式关注对象之间的责任分配和算法封装，以及对象间的通信方式。
+
+- [x] [策略模式 (Strategy)](./behavioral/strategy/docs/README.md)
+- [ ] 命令模式 (Command)
+- [ ] 观察者模式 (Observer)
+- [ ] 访问者模式 (Visitor)
+- [ ] 迭代器模式 (Iterator)
+- [ ] 模板方法模式 (Template Method)
+- [ ] 状态模式 (State)
+- [ ] 备忘录模式 (Memento)
+- [ ] 中介者模式 (Mediator)
+- [ ] 解释器模式 (Interpreter)
+- [ ] 责任链模式 (Chain of Responsibility)
+- [ ] 注册表模式（Registry）
+- [ ] 上下文模式（Context）
+
 ### 结构型模式 (Structural Patterns)
 
 这些模式关注类和对象的组合，形成更大的结构，同时保持结构的灵活和高效。
@@ -33,22 +51,6 @@
 - [ ] 外观模式 (Facade)
 - [ ] 享元模式 (Flyweight)
 - [ ] 代理模式 (Proxy)
-
-### 行为型模式 (Behavioral Patterns)
-
-这些模式关注对象之间的责任分配和算法封装，以及对象间的通信方式。
-
-- [x] [策略模式 (Strategy)](./behavioral/strategy/README.md)
-- [ ] 命令模式 (Command)
-- [ ] 观察者模式 (Observer)
-- [ ] 访问者模式 (Visitor)
-- [ ] 迭代器模式 (Iterator)
-- [ ] 模板方法模式 (Template Method)
-- [ ] 状态模式 (State)
-- [ ] 备忘录模式 (Memento)
-- [ ] 中介者模式 (Mediator)
-- [ ] 解释器模式 (Interpreter)
-- [ ] 责任链模式 (Chain of Responsibility)
 
 ### 并发模式 (Concurrency Patterns)
 
