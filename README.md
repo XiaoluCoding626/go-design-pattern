@@ -27,7 +27,7 @@
 这些模式关注对象之间的责任分配和算法封装，以及对象间的通信方式。
 
 - [x] [策略模式 (Strategy)](./behavioral/strategy/docs/README.md)
-- [ ] 命令模式 (Command)
+- [x] [命令模式 (Command)](./behavioral/command/docs/README.md)
 - [ ] 观察者模式 (Observer)
 - [ ] 访问者模式 (Visitor)
 - [ ] 迭代器模式 (Iterator)
