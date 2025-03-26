@@ -31,7 +31,7 @@
 - [x] [观察者模式 (Observer)](./behavioral/observer/docs/README.md)
 - [x] [访问者模式 (Visitor)](./behavioral/visitor/docs/README.md)
 - [x] [迭代器模式 (Iterator)](./behavioral/iterator/docs/README.md)
-- [ ] 模板方法模式 (Template Method)
+- [x] [模板方法模式 (Template Method)](./behavioral/template_method/docs/README.md)
 - [ ] 状态模式 (State)
 - [ ] 备忘录模式 (Memento)
 - [ ] 中介者模式 (Mediator)
