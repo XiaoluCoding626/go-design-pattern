@@ -33,7 +33,7 @@
 - [x] [迭代器模式 (Iterator)](./behavioral/iterator/docs/README.md)
 - [x] [模板方法模式 (Template Method)](./behavioral/template_method/docs/README.md)
 - [x] [状态模式 (State)](./behavioral/state/docs/README.md)
-- [ ] 备忘录模式 (Memento)
+- [x] [备忘录模式 (Memento)](./behavioral/memento/docs/README.md)
 - [ ] 中介者模式 (Mediator)
 - [ ] 解释器模式 (Interpreter)
 - [ ] 责任链模式 (Chain of Responsibility)
