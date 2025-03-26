@@ -30,7 +30,7 @@
 - [x] [命令模式 (Command)](./behavioral/command/docs/README.md)
 - [x] [观察者模式 (Observer)](./behavioral/observer/docs/README.md)
 - [x] [访问者模式 (Visitor)](./behavioral/visitor/docs/README.md)
-- [ ] 迭代器模式 (Iterator)
+- [x] [迭代器模式 (Iterator)](./behavioral/iterator/docs/README.md)
 - [ ] 模板方法模式 (Template Method)
 - [ ] 状态模式 (State)
 - [ ] 备忘录模式 (Memento)
