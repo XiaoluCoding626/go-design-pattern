@@ -38,7 +38,7 @@
 - [x] [解释器模式 (Interpreter)](./behavioral/interpreter/docs/README.md)
 - [x] [责任链模式 (Chain of Responsibility)](./behavioral/chain_of_responsibility/docs/README.md)
 - [x] [注册表模式（Registry）](./behavioral/registry/docs/README.md)
-- [ ] 上下文模式（Context）
+- [x] [上下文模式（Context）](./behavioral/context/docs/README.md)
 
 ### 结构型模式 (Structural Patterns)
 
