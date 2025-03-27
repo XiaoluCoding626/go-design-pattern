@@ -52,6 +52,16 @@
 - [x] [享元模式 (Flyweight)](./structural/flyweight/docs/README.md)
 - [x] [代理模式 (Proxy)](./structural/proxy/docs/README.md)
 
+### 同步模式（Synchronization Patterns）
+
+这些模式用于处理并发编程中的同步问题。
+
+- [x] [互斥锁模式 (Lock Mutex)](./synchronization/lock_mutex/docs/README.md)
+- [x] [读写锁模式 (Read-Write Lock)](./synchronization/read_write_lock/docs/README.md)
+- [x] [信号量模式 (Semaphore)](./synchronization/semaphore/docs/README.md)
+- [x] [条件变量模式 (Condition Variable)](./synchronization/condition_variable/docs/README.md)
+- [x] [监视器模式 (Monitor)](./synchronization/monitor/docs/README.md)
+
 ### 并发模式 (Concurrency Patterns)
 
 这些模式用于处理并发编程中的各种问题。
