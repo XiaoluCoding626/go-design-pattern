@@ -35,7 +35,7 @@
 - [x] [状态模式 (State)](./behavioral/state/docs/README.md)
 - [x] [备忘录模式 (Memento)](./behavioral/memento/docs/README.md)
 - [x] [中介者模式 (Mediator)](./behavioral/mediator/docs/README.md)
-- [ ] 解释器模式 (Interpreter)
+- [x] [解释器模式 (Interpreter)](./behavioral/interpreter/docs/README.md)
 - [ ] 责任链模式 (Chain of Responsibility)
 - [ ] 注册表模式（Registry）
 - [ ] 上下文模式（Context）
