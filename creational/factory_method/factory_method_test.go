@@ -1,4 +1,4 @@
-package factorymethod
+package factory_method
 
 import (
 	"bytes"

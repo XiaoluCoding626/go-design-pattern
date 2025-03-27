@@ -1,5 +1,5 @@
 // Package functionaloption 的测试文件，验证函数选项模式实现的正确性
-package functionaloption
+package functional_option
 
 import (
 	"crypto/tls"

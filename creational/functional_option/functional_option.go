@@ -1,6 +1,6 @@
-// Package functionaloption 展示了Go中函数选项模式的实现
+// Package functional_option 展示了Go中函数选项模式的实现
 // 函数选项模式允许使用灵活、可扩展且易用的API创建配置复杂对象
-package functionaloption
+package functional_option
 
 import (
 	"crypto/tls"

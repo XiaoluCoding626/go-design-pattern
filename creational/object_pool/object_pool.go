@@ -1,5 +1,5 @@
-// Package objectpool 实现了对象池设计模式，用于管理和重用昂贵的对象
-package objectpool
+// Package object_pool 实现了对象池设计模式，用于管理和重用昂贵的对象
+package object_pool
 
 import (
 	"errors"

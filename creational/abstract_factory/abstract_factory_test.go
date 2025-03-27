@@ -1,4 +1,4 @@
-package abstractfactory
+package abstract_factory
 
 import (
 	"bytes"

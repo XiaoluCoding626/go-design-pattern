@@ -1,4 +1,4 @@
-package objectpool
+package object_pool
 
 import (
 	"errors"
