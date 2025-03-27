@@ -49,7 +49,7 @@
 - [x] [组合模式 (Composite)](./structural/composite/docs/README.md)
 - [x] [装饰器模式 (Decorator)](./structural/decorator/docs/README.md)
 - [x] [外观模式 (Facade)](./structural/facade/docs/README.md)
-- [ ] 享元模式 (Flyweight)
+- [x] [享元模式 (Flyweight)](./structural/flyweight/docs/README.md)
 - [ ] 代理模式 (Proxy)
 
 ### 并发模式 (Concurrency Patterns)
