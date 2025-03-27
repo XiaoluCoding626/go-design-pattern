@@ -47,7 +47,7 @@
 - [x] [适配器模式 (Adapter)](./structural/adapter/docs/README.md)
 - [x] [桥接模式 (Bridge)](./structural/bridge/docs/README.md)
 - [x] [组合模式 (Composite)](./structural/composite/docs/README.md)
-- [ ] 装饰器模式 (Decorator)
+- [x] [装饰器模式 (Decorator)](./structural/decorator/docs/README.md)
 - [ ] 外观模式 (Facade)
 - [ ] 享元模式 (Flyweight)
 - [ ] 代理模式 (Proxy)
