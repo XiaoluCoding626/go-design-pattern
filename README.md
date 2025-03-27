@@ -50,7 +50,7 @@
 - [x] [装饰器模式 (Decorator)](./structural/decorator/docs/README.md)
 - [x] [外观模式 (Facade)](./structural/facade/docs/README.md)
 - [x] [享元模式 (Flyweight)](./structural/flyweight/docs/README.md)
-- [ ] 代理模式 (Proxy)
+- [x] [代理模式 (Proxy)](./structural/proxy/docs/README.md)
 
 ### 并发模式 (Concurrency Patterns)
 
