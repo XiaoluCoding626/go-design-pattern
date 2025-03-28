@@ -68,7 +68,7 @@
 
 - [x] [生产者-消费者模式 (Producer-Consumer)](./concurrency/producer_consumer/docs/README.md)
 - [x] [屏障模式 (Barrier)](./concurrency/barrier/docs/README.md)
-- [ ] 有界并行性模式 (Bounded Parallelism)
+- [x] [有界并行性模式 (Bounded Parallelism)](./concurrency/bounded_parallelism/docs/README.md)
 - [ ] 广播模式 (Broadcast)
 - [ ] 协程模式 (Coroutine)
 - [ ] 生成器模式（Generator）
