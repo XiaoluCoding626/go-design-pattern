@@ -66,9 +66,15 @@
 
 这些模式用于处理并发编程中的各种问题。
 
-- [ ] 生产者-消费者模式 (Producer-Consumer)
-- [ ] 读写锁模式 (Read-Write Lock)
-- [ ] 线程池模式 (Thread Pool)
+- [x] [生产者-消费者模式 (Producer-Consumer)](./concurrency/producer_consumer/docs/README.md)
+- [ ] 屏障模式 (Barrier)
+- [ ] 有界并行性模式 (Bounded Parallelism)
+- [ ] 广播模式 (Broadcast)
+- [ ] 协程模式 (Coroutine)
+- [ ] 生成器模式（Generator）
+- [ ] 反应器模式（Reactor）
+- [ ] 并行模式 (Parallelism)
+- [ ] 批处理模式（Batch Processing）
 
 ### 架构模式 (Architectural Patterns)
 
