@@ -67,7 +67,7 @@
 这些模式用于处理并发编程中的各种问题。
 
 - [x] [生产者-消费者模式 (Producer-Consumer)](./concurrency/producer_consumer/docs/README.md)
-- [ ] 屏障模式 (Barrier)
+- [x] [屏障模式 (Barrier)](./concurrency/barrier/docs/README.md)
 - [ ] 有界并行性模式 (Bounded Parallelism)
 - [ ] 广播模式 (Broadcast)
 - [ ] 协程模式 (Coroutine)
